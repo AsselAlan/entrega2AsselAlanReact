@@ -1,0 +1,24 @@
+.containerHomeMasElegidos{
+    width: 100%;
+    background: rgb(149,149,149);
+    
+    padding: 0 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+
+
+.conteinerCardElegidos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.containerHomeMasElegidos h2{
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.containerHomeMasElegidos span{
+    color: #5E16EA;
+}

@@ -1,0 +1,22 @@
+
+.buttonContainer button:nth-child(1){
+    color: #5E16EA;
+    border: 2px solid #5E16EA;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.buttonContainer button:nth-child(2){
+    color: white;
+    border: 2px solid #5E16EA;
+    background-color: #5E16EA;
+    border-radius: 30px;
+}
+
+.c-violet{
+    color: #5E16EA;
+}
+
+p{
+    margin: 0;
+}

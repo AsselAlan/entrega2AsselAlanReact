@@ -1,0 +1,12 @@
+.buttonCarritoNav{
+    border: none;
+    margin:  0 0 0 5px;
+    background: transparent;
+    border: none
+}
+
+.modal-fullscreen{
+    right: 0;
+    width: 40%;
+    position: fixed;
+}

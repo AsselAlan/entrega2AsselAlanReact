@@ -1,0 +1,13 @@
+.categoriasItem{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoriasItem svg{
+    font-size: 60%;
+}

@@ -1,0 +1,12 @@
+.containerStore{
+    width: 100%;
+    background: rgb(149,149,149);
+    padding-top: 120px;
+
+}
+
+.itemsContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
